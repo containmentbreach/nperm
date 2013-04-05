@@ -1,0 +1,18 @@
+{   
+  "name": "nperm",
+  "description": "Indexed permutations",
+  "version": "0.0.1",
+  "author": "Pipa <tekmon@gmail.com>",
+  "contributors": [],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omg/nperm.git"
+  },
+  "keywords": ["permutation", "combinatorics"],
+  "main": "./index.js",
+  "engines": { "node": ">= 0.8.0" }
+}
